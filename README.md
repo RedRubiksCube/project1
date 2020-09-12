@@ -29,3 +29,13 @@ NOAA Storm Events Database-
   https://ourworldindata.org/natural-disasters
   https://www.fema.gov/openfema-data-page/disaster-declarations-summaries
   https://www.fema.gov/about/openfema/api
+  
+  
+  
+Our Hypothesis -
+  The United States total emissions will create a rise in natural disasters. This then will also create a rise in the financial tol the disaster have on the United States. 
+  
+Our Questions for this project
+1.  Was there a rise in CO2 emissions in the United States based on the data we can find and collect?
+2.  Was there a rise in natural disasters?
+3.  With the data we collected, is there a rise in financial damages from natural disaster
