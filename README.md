@@ -33,7 +33,7 @@ NOAA Storm Events Database-
   
   
 Our Hypothesis -
-  The United States total emissions will create a rise in natural disasters. This then will also create a rise in the financial tol the disaster have on the United States. 
+  The United States total emissions will create a rise in natural disasters. This then will also create a rise in the financial toll the disaster have on the United States. 
   
 Our Questions for this project
 1.  Was there a rise in CO2 emissions in the United States based on the data we can find and collect?
