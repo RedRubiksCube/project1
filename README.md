@@ -6,7 +6,7 @@ Projected Contributors
 Project information 
 
  Subject:
-  Do rising CO2 emissions in the United States have a relation the quantity of natural and the rise of Financial Impact of these disasters.
+  Do rising CO2 emissions in the United States have a relation the quantity of natural disasters and the rise of Financial Impact of these disasters.
 
 Purpose:  
   For our project, we would  like to compare the rise in CO2 emissions with the yearly financial impact of natural disasters.  Is there a correlation, and if so what predictions     can we make about the current year, 5, 10, and 15 years in the future?
