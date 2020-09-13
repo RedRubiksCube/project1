@@ -39,3 +39,4 @@ Our Questions for this project
 1.  Was there a rise in CO2 emissions in the United States based on the data we can find and collect?
 2.  Was there a rise in natural disasters?
 3.  With the data we collected, is there a rise in financial damages from natural disaster
+4.  Can we predict future costs of Natural Disasters 5, 10, and 15 years into the future?
