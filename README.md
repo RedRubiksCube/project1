@@ -40,3 +40,8 @@ Our Questions for this project
 2.  Was there a rise in natural disasters?
 3.  With the data we collected, is there a rise in financial damages from natural disaster
 4.  Can we predict future costs of Natural Disasters 5, 10, and 15 years into the future?
+
+
+
+Project Presentation Link
+https://docs.google.com/presentation/d/1FGWdBVHlnxKI1Y3X1R_HxT0mgKLJEK3R0MDuovsmDAc/edit#slide=id.g975eec2510_0_289
